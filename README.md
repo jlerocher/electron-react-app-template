@@ -59,7 +59,7 @@ Clone the repository:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/jlerocher/electron-react-app-template](https://github.com/jlerocher/electron-react-app-template)
+git clone https://github.com/jlerocher/electron-react-app-template
 
 # Change directory
 cd electron-react-app
